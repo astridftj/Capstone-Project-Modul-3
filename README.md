@@ -1,4 +1,4 @@
-## *E-commerce Customer Churn Prediction *
+## E-commerce Customer Churn Prediction
 
 **Business Problem:**
 Customer churn poses a significant challenge for e-commerce businesses, leading to revenue loss. Recognizing the importance of customer retention, the company aims to predict churn using machine learning models, allowing targeted strategies to retain high-risk customers.
